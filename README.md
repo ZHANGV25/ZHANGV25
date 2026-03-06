@@ -27,6 +27,12 @@ CRM component for managing contract opportunities and proposal workflows.
 **Tech:** React, Node.js, PostgreSQL  
 **Live:** [quorum-crm.vercel.app](https://quorum-crm.vercel.app)
 
+### BibleBuddy Kids
+Interactive AI tutor for biblical education. Age-appropriate learning platform for children ages 4-12.
+
+**Tech:** AI/ML, Safety Filtering, Scripture Integration  
+**Live:** [biblebuddykids.com](https://biblebuddykids.com)
+
 ### EventMonkey
 OCR calendar application. Converts event posters to calendar entries. Secured institutional backing.
 
