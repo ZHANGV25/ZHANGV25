@@ -21,7 +21,7 @@ Government contracting automation. AI system that reads RFP PDFs and generates c
 **Tech:** Next.js, Python, Anthropic APIs, Vector DBs  
 **Live:** [usequorum.app](https://usequorum.app)
 
-### [Quorum CRM](https://github.com/ZHANGV25/Quorum-CRM)
+### Quorum CRM
 CRM component for managing contract opportunities and proposal workflows.
 
 **Tech:** React, Node.js, PostgreSQL  
