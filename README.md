@@ -30,7 +30,8 @@ CRM component for managing contract opportunities and proposal workflows.
 ### EventMonkey
 OCR calendar application. Converts event posters to calendar entries. Secured institutional backing.
 
-**Tech:** Flutter, Firebase, OCR APIs
+**Tech:** Flutter, Firebase, OCR APIs  
+**Live:** [App Store](https://apps.apple.com/us/app/event-monkey/id6752734410)
 
 ---
 
