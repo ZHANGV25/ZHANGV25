@@ -42,11 +42,3 @@ OCR calendar application. Converts event posters to calendar entries. Secured in
 **Backend:** Node.js, FastAPI, Firebase  
 **Cloud:** AWS, GCP, Vercel  
 **Databases:** PostgreSQL, SQLite, Redis
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZHANGV25&show_icons=true&theme=minimal&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHANGV25&layout=compact&theme=minimal&hide_border=true)
