@@ -1,0 +1,52 @@
+# Victor Zhang
+
+Building software at Carnegie Mellon University. MechE + Robotics.
+
+Currently shipping products that solve real problems.
+
+**Links:** [Portfolio](https://vzhang.dev) • [LinkedIn](https://www.linkedin.com/in/victor-zhang-663928229/) • [Email](mailto:vhzhang2020@gmail.com)
+
+---
+
+## Featured Projects
+
+### [EasyClaw](https://github.com/ZHANGV25/EasyClaw)
+Consumer assistant platform. Managed OpenClaw wrapper with usage-based billing and one-click deployment.
+
+**Tech:** Next.js, AWS, Stripe, Telegram API
+
+### [Quorum](https://github.com/jabarkle/AIVS)
+Government contracting automation. AI system that reads RFP PDFs and generates complete proposal packages in under 10 minutes.
+
+**Tech:** Next.js, Python, Anthropic APIs, Vector DBs  
+**Live:** [usequorum.app](https://usequorum.app)
+
+### [Quorum CRM](https://github.com/ZHANGV25/AICRM)
+CRM component for managing contract opportunities and proposal workflows.
+
+**Tech:** React, Node.js, PostgreSQL  
+**Live:** [quorum-crm.vercel.app](https://quorum-crm.vercel.app)
+
+### EventMonkey
+OCR calendar application. Converts event posters to calendar entries. Secured institutional backing.
+
+**Tech:** Flutter, Firebase, OCR APIs
+
+---
+
+## Tech Stack
+
+**Languages:** Python, TypeScript, Swift, Java  
+**AI/ML:** TensorFlow, PyTorch, OpenAI API, Anthropic APIs  
+**Frontend:** Next.js, React, Flutter, iOS (Swift)  
+**Backend:** Node.js, FastAPI, Firebase  
+**Cloud:** AWS, GCP, Vercel  
+**Databases:** PostgreSQL, SQLite, Redis
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZHANGV25&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHANGV25&layout=compact&theme=minimal&hide_border=true)
