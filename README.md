@@ -10,12 +10,12 @@ Currently shipping products that solve real problems.
 
 ## Featured Projects
 
-### [EasyClaw](https://github.com/ZHANGV25/EasyClaw)
+### EasyClaw
 Consumer assistant platform. Managed OpenClaw wrapper with usage-based billing and one-click deployment.
 
 **Tech:** Next.js, AWS, Stripe, Telegram API
 
-### [Quorum](https://github.com/jabarkle/AIVS)
+### Quorum
 Government contracting automation. AI system that reads RFP PDFs and generates complete proposal packages in under 10 minutes.
 
 **Tech:** Next.js, Python, Anthropic APIs, Vector DBs  
