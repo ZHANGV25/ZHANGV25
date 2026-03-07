@@ -13,8 +13,7 @@ Currently shipping products that solve real problems.
 ### EasyClaw
 Consumer assistant platform. Managed OpenClaw wrapper with usage-based billing and one-click deployment.
 
-**Tech:** Next.js, AWS, Stripe, Telegram API  
-**Repo:** [EasyClaw](https://github.com/ZHANGV25/EasyClaw)
+**Tech:** Next.js, AWS, Stripe, Telegram API
 
 ### Quorum
 Government contracting automation. AI system that reads RFP PDFs and generates complete proposal packages in under 10 minutes.
