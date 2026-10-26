@@ -1,18 +1,16 @@
-## Hi, I'm Victor
+## Victor Zhang
 
-Engineer based in NYC. Studied Physics at Carnegie Mellon before leaving to build software.
+Software Engineer at Clover Health | CMU
 
-### What I'm building
+### Projects
 
-A 6-max No-Limit Hold'em solver written in C and CUDA. It trains a blueprint strategy with Monte Carlo counterfactual regret minimization, then runs GPU-accelerated subgame search at the table. Multiplayer imperfect-information games are hard to solve, and this is the main thing I work on. The code is private for now, so reach out if you want to talk about it.
+- **[NexusGTO](https://nexusgto.com)**: a six-player poker AI modeled on Pluribus. A program built to exploit it won about 115 big blinds per 100 hands from its blueprint alone, and 9.2 from its search. The code is private.
+- **[Brier Trading Group](https://briertradinggroup.com)**: a prop-firm platform whose simulated trading accounts fill against live Kalshi and Polymarket order books.
+- **[BibleBuddy Kids](https://apps.apple.com/us/app/biblebuddy-kids/id6755739837)**: an iPhone app of Bible lessons and quizzes for kids, with 1,416 accounts and 4.8 stars from 118 ratings.
+- **[DREWT](https://www.drewt.co)**: the store for our custom Corvette parts and tail lights, which has made $24.6K from 39 orders.
+- **[WatchTower](https://github.com/ZHANGV25/yhack-watchtower)**: a camera monitor for elder care that takes its rules in plain English, built at YHack 2026.
+- **[Jump Trading poker bot](https://github.com/ZHANGV25/poker-engine-2026)**: a bot for a 27-card poker variant, built for the CMU × Jump Trading AI tournament.
 
-`C` · `CUDA` · `Python` · `OpenMP` · `AWS`
+`Python` `TypeScript` `C` `Swift` · Next.js · Django · PostgreSQL · AWS
 
-### Tools I reach for
-
-`C` `CUDA` `Python` `TypeScript` `Rust`
-PyTorch · Next.js · FastAPI · AWS
-
-### Elsewhere
-
-[Portfolio](https://vzhang.dev/) · [LinkedIn](https://www.linkedin.com/in/victor-zhang-663928229/) · vhzhang2020@gmail.com
+[vzhang.dev](https://vzhang.dev) · [LinkedIn](https://www.linkedin.com/in/victor-zhang-663928229/) · vhzhang2020@gmail.com
