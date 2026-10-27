@@ -1,6 +1,6 @@
 ## Victor Zhang
 
-Software Engineer at Clover Health | CMU
+Software @ Clover Health | CMU
 
 ### Projects
 
