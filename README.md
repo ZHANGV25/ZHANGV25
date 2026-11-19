@@ -11,6 +11,10 @@ Software @ Clover Health | CMU
 - **[WatchTower](https://github.com/ZHANGV25/yhack-watchtower)**: a camera monitor for elder care that takes its rules in plain English, built at YHack 2026.
 - **[Jump Trading poker bot](https://github.com/ZHANGV25/poker-engine-2026)**: a bot for a 27-card poker variant, built for the CMU × Jump Trading AI tournament.
 
+### Open source
+
+- **[livekit/agents](https://github.com/livekit/agents/pull/8668)**: fixed voice agents on Claude going silent, or reading their reasoning aloud, when `<thinking>` tags arrive split across stream chunks (in review).
+
 `Python` `TypeScript` `C` `Swift` · Next.js · Django · PostgreSQL · AWS
 
 [vzhang.dev](https://vzhang.dev) · [LinkedIn](https://www.linkedin.com/in/victor-zhang-663928229/) · vhzhang2020@gmail.com
